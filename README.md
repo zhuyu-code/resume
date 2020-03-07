@@ -12,7 +12,7 @@
 
 邮箱： 1054988241@qq.com;           
 电话： 18081964140     
-github:https://github.com/zhuyu-code
+github:    https://github.com/zhuyu-code
 
 ## 技能清单
 
