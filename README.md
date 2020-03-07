@@ -10,7 +10,7 @@
 
 ## 联系方式
 
-邮箱： 1054988241@qq.com&emsp;&emsp;&emsp;|&emsp;&emsp;电话： 18081964140&emsp;｜&emsp;github:https://github.com/zhuyu-code
+邮箱： 1054988241@qq.com&emsp;&emsp;&emsp;|&emsp;&emsp;电话： 18081964140&emsp;&emsp;｜&emsp;&emsp;github:https://github.com/zhuyu-code
 
 ## 技能清单
 
@@ -86,4 +86,4 @@
 
 **完成情况**：上线在企业内部初步使用，已迭代2个版本。
 
-**技术栈**：react+reactHooks+mobx+webpack+antd+less+chart.js
+**技术栈**：react+reactHooks+mobx+webpack+antd+less+chart.js+egg.js+mysql
