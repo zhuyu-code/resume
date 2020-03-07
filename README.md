@@ -24,7 +24,7 @@
 
 * 熟悉 Node.js 开发。对Egg.js,Express等Node.js框架有基本的实践。
 
-* 了解 Http，TCP/IP，Websocket 协议***\*，\****熟悉处理网络请求，在理解浏览器渲染原理的基础上做一定的性能优化。
+* 了解 Http，TCP/IP，Websocket 协议，熟悉处理网络请求，在理解浏览器渲染原理的基础上做一定的性能优化。
 
 *  熟悉 gulp、webpack、parcel、rollup 等构建工具，对 loader，plugin 的开发有所了解，能够根据 webpack 的打包原理进行分析发现问题并且性能优化。
 
